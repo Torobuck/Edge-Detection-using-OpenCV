@@ -27,7 +27,7 @@ bash
 pip install opencv-python numpy
 
 
-## To Launch
+## 🚀 To Launch
 
 - Open up CMD
 - Type python EdgeDetection.py
