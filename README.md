@@ -4,9 +4,9 @@ This project demonstrates real-time **edge detection** using the **Canny algorit
 
 ## 📽️ Demo Video
 
-A .mp4 demonstration video is included to visually showcase the project in action.  
+A .mp4 demonstration video download link is included to visually showcase the project in action.  
 
-Also it's just for reference - you don’t need to run it. (Unless you want to hear my voice and if so, be my guest.)
+Also it's just for reference - you don’t need to run/download it. (Unless you want to hear my voice and if so, be my guest.)
 
 ## 🛠️ Features
 
